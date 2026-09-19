@@ -1,0 +1,33 @@
+---
+title: ""
+pagetitle: "Translation as Technology"
+description: "Hongshan Translation & Heritage Research \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Translation · Knowledge · Heritage</p><h1>Translation as Technology</h1><p class="status-line">Hongshan cultural heritage / Translation and research in progress</p></div>
+```
+
+::: {.article-copy}
+
+How does translation help make knowledge authoritative?
+
+My work on Hongshan cultural heritage examines translation as a technology of knowledge: a set of tools, classifications, and procedures through which archaeological claims become legible to different audiences. It combines Chinese–English translation, terminology development, and comparative heritage research.
+
+A term carries a history of scholarly debates and assumptions. Rendering it in another language can change its relation to categories such as civilization, ritual, and political organization. The research follows how these choices interact with museum interpretation, editorial standards, and heritage frameworks.
+
+The developing dictionary records proposed translations, conceptual histories, sources, alternatives, and editorial decisions. Translation of scholarly texts and my published translation of the children’s picture book [*The Ancient Hongshan Kingdom*](../writing/ancient-hongshan-kingdom.html) bring the demands of different audiences into the same field of practice.
+
+As a research assistant on the Niuheliang museum redevelopment and heritage nomination preparations, I have contributed comparative research on Neolithic World Heritage sites and heritage evaluation. This work provides a situated perspective on how evidence and interpretation are selected, qualified, and presented.
+
+The historical question concerns how concepts acquire their meanings; the anthropological question concerns how people work with them. Together, they illuminate how authority is produced through the ordinary technical work of translation.
+
+**My contribution:** translation and editorial work, terminology development, and comparative heritage research.
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research.html">Back to research <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

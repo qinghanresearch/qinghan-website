@@ -1,0 +1,15 @@
+---
+title: ""
+pagetitle: "Research"
+description: "Research \u2014 Qing Han"
+body-classes: interior
+title-block-style: none
+---
+
+```{=html}
+<header class="page-intro"><p class="eyebrow">Research</p><h1>Histories of knowledge.<br>Technologies of social life.</h1><p class="page-deck">My research asks how knowledge, technologies, and institutions make particular ways of living possible. I use historical inquiry to trace how categories and expectations change, and anthropological methods to understand how people negotiate them in practice.</p></header>
+```
+
+```{=html}
+<section class="work-list" aria-label="Research projects"><a class="work-row" href="research/aging-futures.html"><span class="work-number">01</span><div><p class="eyebrow">Research in development</p><h2>Governing Aging Futures</h2><p>Aging, the silver economy, and the making of technological futures.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a><a class="work-row" href="research/shared-husbands.html"><span class="work-number">02</span><div><p class="eyebrow">MSc dissertation · Article in development</p><h2>Fantamacy: Fantasy Intimacy</h2><p>Fantamacy (fantasy intimacy), mengnü culture, and the making of technologically mediated relationships.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a><a class="work-row" href="research/hongshan.html"><span class="work-number">03</span><div><p class="eyebrow">Translation & research in progress</p><h2>Translation as Technology</h2><p>Conceptual histories, standards, and the production of archaeological authority through translation.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a><a class="work-row" href="research/ai-talent.html"><span class="work-number">04</span><div><p class="eyebrow">Historical discourse analysis · AI recruitment</p><h2>Who Counts as Good Talent?</h2><p>Changing ideals of the valuable worker, with ByteDance as a case, and the claims made by AI hiring systems.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a><a class="work-row" href="research/small-business.html"><span class="work-number">05</span><div><p class="eyebrow">Independent research in progress</p><h2>Small Business & Organizational Life</h2><p>Authority, practical knowledge, and belonging among small-business owners.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a></section>
+```

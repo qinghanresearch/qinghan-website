@@ -1,0 +1,33 @@
+---
+title: ""
+pagetitle: "Fantamacy: Fantasy Intimacy"
+description: "Fantamacy, mengnü culture, and fantasy intimacy — Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Mengnü culture · Intimacy · Technology</p><h1>Fantamacy:<br>Fantasy Intimacy</h1><p class="status-line">MSc dissertation / Article in development</p></div>
+```
+
+::: {.article-copy}
+
+How does fantasy become an intimate relationship—and what social and technical work makes that relationship possible?
+
+My MSc research in Social Anthropology at the University of Oxford examines **mengnü culture (梦女文化)** and Chinese otome-game fandoms. Mengnü, often translated as “dream girls,” describes fans who imagine themselves in romantic relationships with fictional characters. I approach these relationships through **fantamacy (fantasy intimacy)**, the concept I developed to examine how fantasy is lived through emotion, community, commercial media, and embodied practice.
+
+Drawing on digital and in-person ethnography, the project follows how players sustain intimate worlds through platform design, fan conventions, boundaries around sharing, and cosplay commissions. The tension between a widely shared character and an exclusive relationship is one part of this broader inquiry.
+
+The STS question concerns how intimacy is made: how commercial infrastructures and collective practices shape what can count as a relationship, who can participate in it, and whose attachments are recognized as legitimate. This also opens historical questions about how distinctions between real and imagined, human and nonhuman, and legitimate and illegitimate intimacy have been drawn. My related comparative writing develops these historical questions beyond the dissertation.
+
+**Status:** completed MSc dissertation; article in development.
+
+**Original dissertation title:** *Shared Husbands: Fantamacy, Community Governance, and the Ethnography of Virtual Love in Chinese Otome Game Fandoms.*
+
+**Methods:** digital and in-person ethnography; analysis of platform design and community practice.
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research.html">Back to research <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

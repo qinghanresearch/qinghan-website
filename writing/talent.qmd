@@ -1,0 +1,27 @@
+---
+title: ""
+pagetitle: "Talent, Defined"
+description: "Talent, Defined \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../writing.html">← Writing</a><p class="eyebrow">Working paper / Project note</p><h1>Talent, Defined</h1><p class="page-deck">ByteDance and the changing meaning of good talent</p></div>
+```
+
+::: {.article-copy}
+
+What counts as “good talent” when organizations imagine their future around AI?
+
+Using ByteDance as a case, this study traces how descriptions of the valuable employee change alongside organizational priorities and expectations of technology. It asks how these descriptions become criteria for selection, assessment, and reward.
+
+The study combines a historical reading of organizational discourse with questions about measurement: when the definition of talent changes, what happens to the meaning and comparability of an evaluation? The source corpus distinguishes first-party statements from reported accounts.
+
+This work forms one strand of my wider research on [talent, valuation, and AI recruitment](../research/ai-talent.html).
+
+:::
+
+```{=html}
+<div class="article-bottom"><a class="text-link" href="../research.html">Related: Research <span aria-hidden="true">↗</span></a></div>
+```

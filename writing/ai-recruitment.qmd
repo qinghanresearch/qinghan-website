@@ -1,0 +1,27 @@
+---
+title: ""
+pagetitle: "AI Recruitment and the Problem of Evaluation"
+description: "What do hiring systems claim to know about a person? \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../writing.html">← Writing</a><p class="eyebrow">Working study · AI & work</p><h1>AI Recruitment and the Problem of Evaluation</h1><p class="page-deck">What do hiring systems claim to know about a person?</p></div>
+```
+
+::: {.article-copy}
+
+AI recruitment turns questions about people into problems of data, classification, and prediction. This study examines how hiring systems define the qualities they assess and what evidence is offered to support their judgments.
+
+The analysis asks how claims about competence, potential, or fit become measurable constructs; whether consistency is being confused with validity; how bias can be investigated; and how responsibility is distributed between a model, a vendor, and an employer.
+
+I connect these questions to the history of organizational ideas about the good worker. An assessment system makes historically specific choices about which qualities matter, how they are recognized, and what consequences follow.
+
+The project is part of my research on [talent and valuation in the AI era](../research/ai-talent.html).
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../writing.html">Back to writing <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

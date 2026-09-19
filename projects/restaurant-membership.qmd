@@ -1,0 +1,29 @@
+---
+title: ""
+pagetitle: "Restaurant Membership & Service Design"
+description: "Restaurant Membership & Service Design \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../projects.html">← Projects</a><p class="eyebrow">Client collaboration · Service design</p><h1>Restaurant Membership & Service Design</h1><p class="status-line">FDE-style collaboration / In real operations</p></div>
+```
+
+::: {.article-copy}
+
+How can restaurant membership practices become a system that staff can actually use?
+
+For my client Qingting Consulting (蜻蜓咨询), I work in a forward-deployed engineering (FDE) style of collaboration, translating its restaurant membership approach into product requirements and service workflows. The project has reached deployment in real restaurant operations. It considers how customers enter a relationship with a restaurant, how membership is recognized, and how staff and owners identify the next action to take.
+
+My work has focused on simplifying membership identities, clarifying the difference between a decision and a proposal, and organizing evolving requirements. AI-assisted document work supports this process by bringing meeting material and product decisions into a shared working record.
+
+The materials include a membership product specification and a related restaurant management proposal. Together, they raise practical questions about the division of work between software, staff, and managers. The membership product is in use, while the related management proposals are being developed separately.
+
+**My contribution:** membership-model simplification, requirements clarification, and development of an AI-assisted product workflow. The case focuses on product decisions and the transition into use.
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../projects.html">Back to projects <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

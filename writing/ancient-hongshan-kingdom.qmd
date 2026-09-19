@@ -1,0 +1,35 @@
+---
+title: ""
+pagetitle: "The Ancient Hongshan Kingdom"
+description: "红山古国 — a published children's picture book, translated into English by Qing Han."
+body-classes: article-page book-page
+title-block-style: none
+---
+
+```{=html}
+<header class="article-top"><a class="back-link" href="../writing.html">← Writing & translation</a><p class="eyebrow">Published translation · Children’s picture book</p><h1>The Ancient<br>Hongshan Kingdom</h1><p class="book-chinese" lang="zh">红山古国</p><p class="status-line">English translation by Qing Han</p></header>
+<figure class="book-hero"><img src="../assets/books/hongshan-pitt-rivers.png" alt="The book held in the Pitt Rivers Museum, with its title and Translated by Qing Han credit visible on the cover" width="1448" height="1086" fetchpriority="high"><figcaption>The English-language book photographed at the Pitt Rivers Museum, Oxford. The cover credits Qing Han as translator.</figcaption></figure>
+```
+
+::: {.article-copy}
+
+How can a picture book carry archaeological knowledge into another language?
+
+*The Ancient Hongshan Kingdom* (红山古国) introduces young readers to Hongshan cultural heritage through illustrated storytelling. I translated the book into English, working with the relationship between archaeological concepts, the voice of the text, and its visual narrative.
+
+The book moves through themes of origins, agriculture, cultural exchange, ritual, jade, and political authority. Translating for young readers involves decisions about which terms need explanation and how to keep the narrative accessible while attending to the meaning of the source text.
+
+## The book in context
+
+The translation places Hongshan archaeological heritage in a form intended for readers across linguistic and cultural contexts. As public archaeology, the picture book asks readers to encounter the past through a selected narrative of objects, practices, and social life. Translation participates in that interpretation: choices about terminology and explanation shape how archaeological knowledge is represented and understood.
+
+For me, this work raises questions about the international communication of Chinese archaeological heritage. What background knowledge does an English-language account assume? How can a text explain culturally specific concepts without making them appear interchangeable with familiar categories? How can an accessible narrative preserve the distinction between archaeological evidence and its interpretation?
+
+These questions connect the published translation to my broader [research on translation as a technology of knowledge](../research/hongshan.html). The book is a concrete translation output; the research follows the histories, conventions, and institutional processes through which such representations gain authority.
+
+:::
+
+```{=html}
+<section class="book-credits" aria-labelledby="credits-heading"><h2 id="credits-heading">Book credits</h2><dl><div><dt>Title</dt><dd>The Ancient Hongshan Kingdom · <span lang="zh">红山古国</span></dd></div><div><dt>Edited by</dt><dd>Jingtang Cheng & Rui Chi</dd></div><div><dt>Illustrated by</dt><dd>Rui Chi</dd></div><div><dt>Translated by</dt><dd>Qing Han</dd></div><div><dt>Publisher</dt><dd>Jilin University Press · <span lang="zh">吉林大学出版社</span></dd></div></dl></section>
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research/hongshan.html">Translation as Technology <span aria-hidden="true">↗</span></a><a class="text-link" href="../writing.html">All writing <span aria-hidden="true">↗</span></a></nav>
+```

@@ -1,0 +1,29 @@
+---
+title: ""
+pagetitle: "Small Business & Organizational Life"
+description: "Small Business & Organizational Life \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Organizations · Authority · Belonging</p><h1>Small Business & Organizational Life</h1><p class="status-line">Independent research in progress</p></div>
+```
+
+::: {.article-copy}
+
+How do small-business owners seek practical knowledge, authority, and belonging?
+
+This developing research brings together historical writing on small-business formation, a study of the training industry, and an ethnographic account of organizational life. It asks how management instruction also becomes a source of identity, obligation, and mutual support.
+
+The historical strands consider the emergence of small-business owners and the circulation of training methods. The ethnographic strand examines how these methods are encountered and interpreted in everyday relationships.
+
+My position within the setting is part of the methodological problem. The research requires care in separating public sources, personal recollection, and material collected through relationships that were not established for public research.
+
+**My contribution:** historical and ethnographic analysis, with continuing work on evidence, positionality, and the boundaries of public presentation.
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research.html">Back to research <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

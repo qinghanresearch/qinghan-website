@@ -1,0 +1,33 @@
+---
+title: ""
+pagetitle: "Digital Heritage Experiments"
+description: "Digital Heritage Experiments \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../projects.html">← Projects</a><p class="eyebrow">Archaeology · Interaction · Interpretation</p><h1>Digital Heritage Experiments</h1><p class="status-line">Prototypes</p></div>
+```
+
+::: {.article-copy}
+
+How can an interactive reconstruction communicate both what is known and what remains uncertain?
+
+These experiments explore the use of three-dimensional models and guided interaction in archaeological interpretation. They bring together two distinct cases.
+
+**Niuheliang digital site.** A local prototype combines schematic models of the altar, temple, and site landscape with interpretive text. Dimensions and reconstructed features require checking against excavation reports. The models are illustrative studies, not measured records of the site.
+
+**ARCHAEO: Heidentor.** A separate proof of concept explores the monument at Carnuntum. Its interface distinguishes a surviving-form layer from a hypothetical completion, with controls for comparison and scene-linked questions. The source includes preset guide responses and an optional AI connection; this does not establish that live AI is currently available in a public deployment.
+
+The two cases share a question about interpretation, but they are not the same archaeological site or an installed museum exhibition. A wider Chinese archaeology map and museum mini-games remain design directions.
+
+**Project documentation:** the Niuheliang prototype includes schematic model assets, modelling scripts, and a local HTML interface. The separate Heidentor proof of concept includes scene and guide source code, source notes, and implementation documentation. These materials document prototype development; they do not establish museum installation or use by visitors.
+
+**Research connection:** the prototypes explore how interfaces represent the relationship between surviving evidence, scholarly interpretation, and hypothetical reconstruction.
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../projects.html">Back to projects <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

@@ -1,0 +1,35 @@
+---
+title: ""
+pagetitle: "Who Counts as Good Talent?"
+description: "Changing ideals of talent and the politics of AI recruitment \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Work · Valuation · Artificial intelligence</p><h1>Who Counts as Good Talent?</h1><p class="page-deck">Changing ideals of talent and the politics of AI recruitment</p></div>
+```
+
+::: {.article-copy}
+
+How does a particular idea of the “good worker” become a standard against which people are measured?
+
+This research brings together a study of **ByteDance’s changing definitions of talent** and an examination of **AI recruitment systems**. I treat hiring and evaluation as practices that help produce the qualities they claim to identify: potential, organizational fit, competence, and value.
+
+The ByteDance study traces changes in organizational discourse about what makes a person valuable, using a corpus of public statements and reported accounts. Its historical question is how ideals of talent shift alongside changing organizational problems and expectations of AI. Its analytical question is what happens when these shifting ideals become evaluation criteria.
+
+The AI recruitment strand examines how hiring tools turn accounts of people into scores and recommendations. I ask what these tools claim to measure, what evidence supports those claims, how bias can be assessed, and where human judgment and responsibility sit within the process.
+
+Together, the studies examine a problem of classification and valuation: how historically situated assumptions about the good worker acquire the authority of a technical assessment, and what this means for the people being evaluated.
+
+**Status:** independent research and analytical writing.
+
+**Approach:** historical discourse analysis, source comparison, and analysis of recruitment systems’ measurement and validity claims.
+
+**Related writing:** [Talent, Defined](../writing/talent.html) · [AI Recruitment and the Problem of Evaluation](../writing/ai-recruitment.html).
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research.html">Back to research <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

@@ -1,0 +1,29 @@
+---
+title: ""
+pagetitle: "TuringPal"
+description: "TuringPal \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../projects.html">← Projects</a><p class="eyebrow">AI companionship · Product development</p><h1>TuringPal</h1><p class="status-line">Co-founder & CEO / From March 2025</p></div>
+```
+
+::: {.article-copy}
+
+TuringPal explored AI companionship for older adults and their families. The project brought conversational AI, an embodied device, and family-facing services into the same product problem.
+
+I began serving as co-founder and CEO in March 2025, working across product definition, research, operations, and collaboration with software, hardware, and other specialist contributors. A recurring challenge was that the person using the device and the person purchasing or managing it might have different priorities, particularly around privacy, reassurance, and control.
+
+My work included clarifying product scope and contributing to decisions about conversational personality, memory, family interaction, and the relationship between the device and its supporting services. Product discussions also required choices about which proposed features to defer as complexity and uncertainty became clearer.
+
+The project informs my research on how care becomes a technological and commercial proposition. Product requirements, investment pitches, and family expectations each make different assumptions about the older person and the future of care. I approach these assumptions as historically situated and trace their consequences through the practical decisions of development.
+
+**My contribution:** product definition, collaborative design decisions, and coordination across functions. 
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../projects.html">Back to projects <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

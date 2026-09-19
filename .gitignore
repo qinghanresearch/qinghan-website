@@ -1,2 +1,16 @@
 /.quarto/
+/_site/
 **/*.quarto_ipynb
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+/99_PRIVATE*/
+
+# Local, unused images are not part of the public source repository.
+/assets/books/hongshan-signing.jpg
+/assets/books/hongshan-guo-dashun.jpg
+/assets/interpretation.svg
+/_quarto-publish.yml

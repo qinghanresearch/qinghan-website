@@ -1,0 +1,19 @@
+---
+title: ""
+pagetitle: "Projects"
+description: "Projects \u2014 Qing Han"
+body-classes: interior
+title-block-style: none
+---
+
+```{=html}
+<header class="page-intro"><p class="eyebrow">Practice</p><h1>From questions<br>to working systems.</h1><p class="page-deck">My practical work places me inside decisions about what technologies should do, whose needs they should serve, and how their value is established. These projects also inform my historical and anthropological questions about care, knowledge, and institutions.</p></header>
+```
+
+```{=html}
+<section class="work-list" aria-label="Practice projects"><a class="work-row" href="projects/turingpal.html"><span class="work-number">01</span><div><p class="eyebrow">Co-founder & CEO · From March 2025</p><h2>TuringPal</h2><p>Product definition and cross-functional development for AI companionship in later life.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a><a class="work-row" href="projects/digital-heritage.html"><span class="work-number">02</span><div><p class="eyebrow">Prototypes · Niuheliang & Heidentor</p><h2>Digital Heritage Experiments</h2><p>Interactive studies of the boundary between surviving evidence and hypothetical reconstruction.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a><a class="work-row" href="projects/restaurant-membership.html"><span class="work-number">03</span><div><p class="eyebrow">Client collaboration · In real operations</p><h2>Restaurant Membership & Service Design</h2><p>FDE-style work with Qingting Consulting, turning membership practices into usable workflows.</p></div><span class="row-arrow" aria-hidden="true">↗</span></a></section>
+```
+
+```{=html}
+<section class="cross-note" aria-label="Related work"><p class="eyebrow">Related work</p><p>My translation and terminology work connects practice with research in cultural heritage.</p><a class="text-link" href="research/hongshan.html">Explore the Hongshan project <span aria-hidden="true">↗</span></a></section>
+```

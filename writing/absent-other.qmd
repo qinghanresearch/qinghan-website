@@ -1,0 +1,23 @@
+---
+title: ""
+pagetitle: "Love and the Absent Other"
+description: "Love and the Absent Other \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../writing.html">← Writing</a><p class="eyebrow">Working paper / Project note</p><h1>Love and the Absent Other</h1><p class="page-deck">An exploratory comparative essay</p></div>
+```
+
+::: {.article-copy}
+
+This essay develops questions about relationships with absent, imagined, sacred, fictional, and artificial others. It asks how different settings authorize, privatize, commercialize, or problematize forms of attachment.
+
+The comparison is exploratory. Similarities between cases are prompts for inquiry, rather than evidence of a single historical lineage.
+
+:::
+
+```{=html}
+<div class="article-bottom"><a class="text-link" href="../research/shared-husbands.html">Related: Fantamacy <span aria-hidden="true">↗</span></a></div>
+```

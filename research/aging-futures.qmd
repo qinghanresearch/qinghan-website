@@ -1,0 +1,31 @@
+---
+title: ""
+pagetitle: "Governing Aging Futures"
+description: "Governing Aging Futures \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Aging · Care · Markets</p><h1>Governing Aging Futures</h1><p class="status-line">Research in development</p></div>
+```
+
+::: {.article-copy}
+
+How does population aging become a future that can be forecast, invested in, and addressed through technology?
+
+This research examines the historical formation of aging as a problem of care, economic value, and technological intervention. A working study of the “silver economy” traces changes in policy language and asks how responsibility is assigned among states, markets, families, and individuals.
+
+A related strand follows the making of AI companionship as a response to care needs. Product categories, investment narratives, and ideas of filial obligation bring different expectations of the older person into view: a family member, a care recipient, a consumer, or a user.
+
+The project asks how these expectations become credible and actionable. How does a care need become a market opportunity? How do forecasts and funding decisions shape what gets built? What forms of care become easier—or harder—to recognize within those arrangements?
+
+Historical and conceptual inquiry frames these questions, while a developing ethnographic approach follows how they are negotiated in everyday decisions. My earlier product experience informs the research design; its use as research evidence requires attention to context and consent.
+
+**Status:** working study and research design in development.
+
+:::
+
+```{=html}
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research.html">Back to research <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+```

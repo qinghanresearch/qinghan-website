@@ -1,0 +1,23 @@
+---
+title: ""
+pagetitle: "The Silver Economy"
+description: "The Silver Economy \u2014 Qing Han"
+body-classes: article-page
+title-block-style: none
+---
+
+```{=html}
+<div class="article-top"><a class="back-link" href="../writing.html">← Writing</a><p class="eyebrow">Working paper / Project note</p><h1>The Silver Economy</h1><p class="page-deck">A conceptual history of aging-policy language</p></div>
+```
+
+::: {.article-copy}
+
+This working study examines how the language of aging shifts between public welfare, care provision, industry, and consumption. It asks what these changes make visible, how they assign responsibility, and which needs they can leave outside the frame.
+
+The study forms part of my developing research on aging futures. Its historical propositions and sources remain under review.
+
+:::
+
+```{=html}
+<div class="article-bottom"><a class="text-link" href="../research/aging-futures.html">Related: Governing Aging Futures <span aria-hidden="true">↗</span></a></div>
+```

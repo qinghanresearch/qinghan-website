@@ -1,21 +1,63 @@
 project:
   type: website
-
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "research/*.qmd"
+    - "projects/*.qmd"
+    - "writing/*.qmd"
+  resources:
+    - "assets/favicon.svg"
+    - "assets/qing-han.jpg"
+    - "assets/books/hongshan-pitt-rivers.png"
 website:
-  title: "ls"
+  title: "Qing Han"
+  description: "Historical and anthropological approaches to science, technology, care, intimacy, and valuation."
+  favicon: assets/favicon.svg
+  search: false
   navbar:
+    title: "Qing Han <span class='brand-han' lang='zh'>韩晴</span>"
+    background: light
+    collapse-below: lg
+    pinned: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "Qing Han · History, anthropology & technology"
+    right:
+      - text: "qinghan.research@gmail.com"
+        href: "mailto:qinghan.research@gmail.com"
+      - text: About
+        href: about.qmd
+      - text: CV
+        href: cv.qmd
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    template-partials:
+      - _includes/title-block.html
+    lang: en
+    toc: false
+    anchor-sections: false
+    smooth-scroll: false
+    link-external-newwindow: true
+    include-in-header: _includes/head.html
+    include-before-body: _includes/skip.html
+    include-after-body: _includes/actions.html
+    grid:
+      body-width: 1120px
+      sidebar-width: 0px
+      margin-width: 0px
+    page-layout: full
