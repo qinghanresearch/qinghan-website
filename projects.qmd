@@ -7,7 +7,7 @@ title-block-style: none
 ---
 
 ```{=html}
-<header class="page-intro"><p class="eyebrow">Practice</p><h1>From questions<br>to working systems.</h1><p class="page-deck">My practical work places me inside decisions about what technologies should do, whose needs they should serve, and how their value is established. These projects also inform my historical and anthropological questions about care, knowledge, and institutions.</p></header>
+<header class="page-intro"><p class="eyebrow">Practice</p><h1>Translation, design,<br>and technical practice.</h1><p class="page-deck">These pages document my contributions to product development and heritage interpretation, including prototypes and deployed systems. They identify what I worked on and the questions that emerged from that work. Research questions and analyses are developed separately in the Research section.</p></header>
 ```
 
 ```{=html}
@@ -15,5 +15,5 @@ title-block-style: none
 ```
 
 ```{=html}
-<section class="cross-note" aria-label="Related work"><p class="eyebrow">Related work</p><p>My translation and terminology work connects practice with research in cultural heritage.</p><a class="text-link" href="research/hongshan.html">Explore the Hongshan project <span aria-hidden="true">↗</span></a></section>
+<section class="cross-note" aria-label="Related work"><p class="eyebrow">Related work</p><p>My translation and terminology work connects practice with research in cultural heritage.</p><a class="text-link" href="research/hongshan.html">Translation as Governance <span aria-hidden="true">↗</span></a></section>
 ```

@@ -25,11 +25,11 @@ The translation places Hongshan archaeological heritage in a form intended for r
 
 For me, this work raises questions about the international communication of Chinese archaeological heritage. What background knowledge does an English-language account assume? How can a text explain culturally specific concepts without making them appear interchangeable with familiar categories? How can an accessible narrative preserve the distinction between archaeological evidence and its interpretation?
 
-These questions connect the published translation to my broader [research on translation as a technology of knowledge](../research/hongshan.html). The book is a concrete translation output; the research follows the histories, conventions, and institutional processes through which such representations gain authority.
+These questions connect the published translation to my broader [research on translation as governance](../research/hongshan.html). The book is a concrete translation output; the research follows the histories, conventions, and institutional processes through which such representations gain authority.
 
 :::
 
 ```{=html}
 <section class="book-credits" aria-labelledby="credits-heading"><h2 id="credits-heading">Book credits</h2><dl><div><dt>Title</dt><dd>The Ancient Hongshan Kingdom · <span lang="zh">红山古国</span></dd></div><div><dt>Edited by</dt><dd>Jingtang Cheng & Rui Chi</dd></div><div><dt>Illustrated by</dt><dd>Rui Chi</dd></div><div><dt>Translated by</dt><dd>Qing Han</dd></div><div><dt>Publisher</dt><dd>Jilin University Press · <span lang="zh">吉林大学出版社</span></dd></div></dl></section>
-<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research/hongshan.html">Translation as Technology <span aria-hidden="true">↗</span></a><a class="text-link" href="../writing.html">All writing <span aria-hidden="true">↗</span></a></nav>
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research/hongshan.html">Translation as Governance <span aria-hidden="true">↗</span></a><a class="text-link" href="../writing.html">All writing <span aria-hidden="true">↗</span></a></nav>
 ```

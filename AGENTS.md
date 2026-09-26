@@ -28,3 +28,9 @@ For the Hongshan translation, context may address heritage interpretation, trans
 Preserve confirmed roles and source attribution. Distinguish published translations from publications in preparation and from scholarly authorship. Never invent publication dates, institutional affiliations, awards, or outcomes.
 
 Do not copy private source materials, applications, raw fieldnotes, BP, credentials, or complete evidence dossiers into the website. Work locally unless publication is explicitly requested.
+
+## Research presentation and routine updates
+
+Lead with the research object and question, then methods, materials, and current status. Historical inquiry and anthropological methods should be visible in the substance of the writing. Keep language concrete and avoid promotional slogans or unsupported novelty claims. Preserve Qing's own identity and confirmed qualifications.
+
+When a detail page changes, check its summaries on Home, Research, Writing, About, and CV. Preserve established URLs when a project title evolves. Translation as Governance uses `research/hongshan.qmd`. Do not turn tentative corpus observations or research blueprints into established results.

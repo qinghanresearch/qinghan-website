@@ -20,3 +20,16 @@ html{scroll-padding-top:24px}body{background:var(--paper);color:var(--ink);font-
 /* Project entries prioritize documented work over generic visual panels. */
 .project-card{border-top:1px solid var(--line);padding-top:23px}.book-page .article-copy h2{font-size:32px;line-height:1.25;margin:40px 0 22px}
 @media(max-width:650px){.book-page .article-copy h2{font-size:28px}}
+
+/* Academic editorial refinement, September 2026. */
+.home-hero{grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);gap:72px;padding:60px 0 48px}
+.home-hero h1{font-size:64px;margin:12px 0 24px}.hero-statement{font-size:32px;line-height:1.3}
+.hero-description{font-size:17px;max-width:590px;color:var(--ink)}
+.hero-portrait{max-width:310px;justify-self:end;padding:0}.hero-portrait:before{display:none}
+.theme-strip{letter-spacing:.07em}.eyebrow{letter-spacing:.1em}
+.page-intro h1{font-size:52px}.article-top h1{font-size:52px}
+.article-copy h2{font-size:28px;line-height:1.3;margin:38px 0 18px}
+.closing-note>p:not(.eyebrow){font-size:25px}.cross-note{background:transparent;border-left:2px solid var(--accent)}
+.hero-copy,.about-text,.work-row>div{min-width:0}
+@media(max-width:850px){.home-hero{gap:38px}.home-hero h1{font-size:54px}}
+@media(max-width:650px){.home-hero{grid-template-columns:1fr;gap:24px;padding:38px 0 32px}.home-hero h1{font-size:48px}.hero-statement{font-size:29px}.hero-portrait{width:58%;max-width:230px;justify-self:start;margin:0}.page-intro h1,.article-top h1{font-size:39px}.article-copy h2{font-size:26px}.about-grid{gap:25px}.text-link{max-width:100%;overflow-wrap:anywhere}.article-page main.content{margin:0;padding:0 22px 45px}}

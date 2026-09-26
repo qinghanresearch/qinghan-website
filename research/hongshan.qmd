@@ -1,33 +1,45 @@
 ---
 title: ""
-pagetitle: "Translation as Technology"
-description: "Hongshan Translation & Heritage Research \u2014 Qing Han"
+pagetitle: "Translation as Governance"
+description: "Hongshan heritage, conceptual history, and the work of making archaeological knowledge legible across languages and institutions."
 body-classes: article-page
 title-block-style: none
 ---
 
 ```{=html}
-<div class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Translation · Knowledge · Heritage</p><h1>Translation as Technology</h1><p class="status-line">Hongshan cultural heritage / Translation and research in progress</p></div>
+<header class="article-top"><a class="back-link" href="../research.html">← Research</a><p class="eyebrow">Language · Classification · Heritage</p><h1>Translation as Governance</h1><p class="status-line">Hongshan cultural heritage · Research in progress</p></header>
 ```
 
 ::: {.article-copy}
 
-How does translation help make knowledge authoritative?
+What happens to archaeological knowledge when it moves between languages, scholarly traditions, and institutions?
 
-My work on Hongshan cultural heritage examines translation as a technology of knowledge: a set of tools, classifications, and procedures through which archaeological claims become legible to different audiences. It combines Chinese–English translation, terminology development, and comparative heritage research.
+This project grows out of my Chinese–English translation and heritage work on Hongshan culture. I examine translation as a practice through which claims are classified, qualified, and made legible to different audiences. A translated term does more than name an object: it can carry assumptions about historical change, political organization, and what counts as evidence.
 
-A term carries a history of scholarly debates and assumptions. Rendering it in another language can change its relation to categories such as civilization, ritual, and political organization. The research follows how these choices interact with museum interpretation, editorial standards, and heritage frameworks.
+## Questions and historical approach
 
-The developing dictionary records proposed translations, conceptual histories, sources, alternatives, and editorial decisions. Translation of scholarly texts and my published translation of the children’s picture book [*The Ancient Hongshan Kingdom*](../writing/ancient-hongshan-kingdom.html) bring the demands of different audiences into the same field of practice.
+The project follows terms such as *wenming* (文明, often rendered as “civilization”) across archaeological writing and public interpretation. Rather than assuming that a familiar English equivalent settles the question, I ask how a category acquired its meanings, what scholarly debates it carries, and how those meanings change as it travels.
 
-As a research assistant on the Niuheliang museum redevelopment and heritage nomination preparations, I have contributed comparative research on Neolithic World Heritage sites and heritage evaluation. This work provides a situated perspective on how evidence and interpretation are selected, qualified, and presented.
+“Governance” names a question about the rules and procedures of representation: who can authorize a description, how degrees of certainty are preserved, and how a statement is adapted for a scholarly volume, a museum label, or a public-facing book. These are questions about the organization of knowledge as well as the work of language.
 
-The historical question concerns how concepts acquire their meanings; the anthropological question concerns how people work with them. Together, they illuminate how authority is produced through the ordinary technical work of translation.
+## Materials and method
 
-**My contribution:** translation and editorial work, terminology development, and comparative heritage research.
+My approach brings conceptual history into conversation with the anthropology of classification and ethnographic attention to translation work. The research develops through close reading of archaeological terminology, comparison of Chinese and English formulations, and reflection on editorial decisions. My involvement in Niuheliang heritage research provides a situated starting point for these questions.
+
+A developing terminology reference records sources, alternative renderings, conceptual histories, and reasons for translation choices. It is both a practical tool and an object of inquiry: how do reference systems make some distinctions durable, while leaving others difficult to express? The project remains in progress; professional participation and publishable research evidence are treated as distinct.
+
+## A related inquiry: the grammar of development
+
+An exploratory strand asks how expressions such as “随着……的发展” (“with the development of…”) connect historical change to explanation in academic Chinese. When does a temporal expression also invite a causal inference, and what happens to that inference in translation? A research blueprint and preliminary sentence annotations provide a starting point. Historical attribution, corpus coverage, and the interpretation of these patterns remain open questions.
+
+## Translation outputs and public archaeology
+
+My published English translation of [*The Ancient Hongshan Kingdom*](../writing/ancient-hongshan-kingdom.html) is a distinct output of this wider practice. Its picture-book form makes the relationship between archaeological interpretation, visual narrative, and audience especially tangible. The book and the terminology work inform my questions about how Chinese archaeological heritage is represented internationally; they are not presented as completed findings of the research project.
+
+**Current status:** research in progress; conceptual and methodological development alongside translation and terminology work.
 
 :::
 
 ```{=html}
-<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../research.html">Back to research <span aria-hidden="true">↗</span></a><a class="text-link" href="../about.html">About Qing <span aria-hidden="true">↗</span></a></nav>
+<nav class="article-bottom" aria-label="Continue reading"><a class="text-link" href="../writing/ancient-hongshan-kingdom.html">The published translation <span aria-hidden="true">↗</span></a><a class="text-link" href="../research.html">All research <span aria-hidden="true">↗</span></a></nav>
 ```

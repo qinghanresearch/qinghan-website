@@ -18,7 +18,7 @@ On this Mac Quarto is also available at `/Applications/quarto/bin/quarto`.
 
 The workflow installs Quarto 1.10.18, renders the site, and deploys only `_site`. It obtains the actual website URL from GitHub Pages for canonical links and the sitemap. No access token needs to be stored in this repository.
 
-No remote repository or custom domain has been configured locally yet. For a custom domain, configure it in GitHub Pages and with the DNS provider after the default address works.
+The public repository is https://github.com/qinghanresearch/qinghan-website and the live website is https://qinghanresearch.github.io/qinghan-website/. GitHub Pages deploys automatically after a push to main. No custom domain is configured. For a custom domain, configure it in GitHub Pages and with the DNS provider after the default address works.
 
 ## Editing and evidence
 
@@ -31,3 +31,9 @@ Only the portrait, favicon, and book photograph are included as public assets. U
 Do not import the parent folder or publish private applications, fieldnotes, business plans, contracts, credentials, or complete evidence dossiers. Search indexing is enabled for launch. The publisher of *The Ancient Hongshan Kingdom* is Jilin University Press (吉林大学出版社), confirmed by Qing Han.
 
 Deployment references: [Quarto GitHub Pages](https://quarto.org/docs/publishing/github-pages.html), [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+## Routine content updates
+
+Keep source materials outside this repository. Prepare public summaries in the relevant `.qmd` pages, preview locally, check related homepage/Research/Writing/CV entries, then commit and push the reviewed changes. Confirm the Publish website workflow succeeds before treating an update as live.
+
+`research/hongshan.qmd` now presents **Translation as Governance**; its established URL is retained. Research proposals and pilot analyses must be identified as work in progress. Private source notes and unverified claims must not be copied into public pages.
